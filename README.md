@@ -10,8 +10,10 @@ Project members: Kayzad Bajina, Andrew Graves, Collin Ching
 ### Assumptions:
 
 - The Gala is a fundraising event with free tickets @ the beginning of June
-- Advertising campign runs from beginning March to end of May
+- Advertising campaign runs from beginning March to end of May
 - Want 200 - 1000 attendees at event
+- Focus on the following high-income neighbourhoods: SoHo, Tribeca, Flatiron District
+
 
 ### Tasks to Accomplish:
 
