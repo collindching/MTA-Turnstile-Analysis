@@ -2,9 +2,11 @@
 
 Project members: Kayzad Bajina, Andrew Graves, Collin Ching
 
-[Presentation](https://github.com/collindching/MTA-Turnstile-Analysis/blob/master/MTA%20Analysis%20Presentation.pdf)
+[Presentation slides](https://github.com/collindching/MTA-Turnstile-Analysis/blob/master/MTA%20Analysis%20Presentation.pdf)
 
-Code: [data cleaning and visuals](https://github.com/collindching/MTA-Turnstile-Analysis/blob/master/Turnstile%20Data%20Analysis.ipynb) and [visuals](https://github.com/collindching/MTA-Turnstile-Analysis/blob/master/Turnstile_Data_Analysis_Andrew_V2.ipynb)
+Code: 
+- [Data cleaning and visuals](https://github.com/collindching/MTA-Turnstile-Analysis/blob/master/Turnstile%20Data%20Analysis.ipynb) 
+- [More visuals](https://github.com/collindching/MTA-Turnstile-Analysis/blob/master/Turnstile_Data_Analysis_Andrew_V2.ipynb)
 
 ### Premise
 
